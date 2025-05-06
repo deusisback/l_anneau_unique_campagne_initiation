@@ -243,7 +243,7 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k6r6zErj2AFBTDEOaumb-45" target="k6r6zErj2AFBTDEOaumb-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-45" value="&lt;div&gt;&lt;i&gt;Le chien réveillé vous flaire aussitôt et rappliquent vers vous. Il aboie aussitôt qu&#39;il vous voie mais vous êtes amusé de constater que ce n&#39;est qu&#39;un vulgaire roquet, plus énergique que méchant.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Les PJs peuvent tenter un TEST DE COURTOISIE pour calmer le chien. En cas de réussite il est amadoué et se rendort. Sinon il ne cesse d&#39;aboyer ce qui rend les PJs très nerveux =&amp;gt; PERTE d&#39;1 POINT D&#39;ESPOIR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;De plus les PJs doivent s&#39;activer dans leur recherche et le stress les défavorise et leur fait perdre un dé lors de leurs TESTS d&#39;INSPECTION.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;S&#39;il échouent à 3 tests d&#39;inspection, ils finissent par trouver la carte dans le brouhaha des aboiements et PERTE D&#39;UN NOUVEAU POINT D&#39;ESPOIR.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="k6r6zErj2AFBTDEOaumb-45" value="&lt;div&gt;&lt;i&gt;Le chien réveillé vous flaire aussitôt et rappliquent vers vous. Il aboie aussitôt qu&#39;il vous voie mais vous êtes amusé de constater que ce n&#39;est qu&#39;un vulgaire roquet, plus énergique que méchant.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Les PJs peuvent tenter un TEST DE COURTOISIE pour calmer le chien. En cas de réussite il est amadoué et se rendort. Sinon il ne cesse d&#39;aboyer ce qui rend les PJs très nerveux =&amp;gt; PERTE d&#39;1 POINT D&#39;ESPOIR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;De plus les PJs doivent s&#39;activer dans leur recherche et le stress les défavorise : ils lancent 2 dés du destin et choisissent le plus défavorable lors de leurs TESTS d&#39;INSPECTION.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;S&#39;il échouent à 3 tests d&#39;inspection, ils finissent par trouver la carte dans le brouhaha des aboiements et PERTE D&#39;UN NOUVEAU POINT D&#39;ESPOIR.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5540" y="535" width="350" height="215" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k6r6zErj2AFBTDEOaumb-41" target="k6r6zErj2AFBTDEOaumb-45" edge="1">
@@ -270,17 +270,22 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-54" value="Les PJs doivent réussir 3 tests d&#39;inspection. 2 échecs réveillent le chien. Ne pas oublier la mécanique &lt;b&gt;d&#39;INSPIRATION associé à l&#39;utilisation d&#39;un point d&#39;ESPOIR (avec le trait Curieux)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5565" y="1040" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k6r6zErj2AFBTDEOaumb-55" target="k6r6zErj2AFBTDEOaumb-61" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="k6r6zErj2AFBTDEOaumb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k6r6zErj2AFBTDEOaumb-55" target="Tu-FaEpAWkRkGIklFACU-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="6473.000048943988" y="716.9333333333334" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-55" value="&lt;div&gt;Enfin en possession de la carte, vous ressortez par .... insert lieu....&lt;/div&gt;&lt;div&gt;&lt;i&gt;Faire une description approprié selon qu&#39;ils ressortent par la porte d&#39;entrée (elle est déverrouillable depuis l&#39;intérieur), par la trappe donnant sur l&#39;entrée éloignée,&amp;nbsp; et faire un éventuel test approprié. Si le chien est réveillé,il paraît risqué de sortir par la porte d&#39;entrée.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="6088" y="627.5" width="230" height="172.5" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si un PJ envisage de s&#39;approprier un objet autre que la carte, faire un test d&#39;OMBRE - CUPIDITÉ/SAGESSE : récupérer un objet appartenant au grand Bilbo est une chose mais il serait absolument inacceptable de voler un objet précieux de la maison des Mathoms. &lt;br&gt;&lt;/div&gt;&lt;div&gt;1D bonus (spécial Hobbit qui ne sont absolument pas voleurs)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="5600" y="760" width="240" height="240" as="geometry" />
+        <mxCell id="Tu-FaEpAWkRkGIklFACU-2" value="&#xa;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si un PJ envisage de s&#39;approprier un &#xa;objet autre que la carte, faire un test d&#39;OMBRE - CUPIDITÉ/SAGESSE : &#xa;récupérer un objet appartenant au grand Bilbo est une chose mais il &#xa;serait absolument inacceptable de voler un objet précieux de la maison &#xa;des Mathoms. &lt;br&gt;&lt;/div&gt;&lt;div&gt;+1D au test d&#39;Ombre - cupidité (particularité des hobbits)&lt;/div&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5520" y="770" width="410" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-61" value="&lt;b&gt;EPILOGUE lire p9 en bas à droite&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="6473" y="673.75" width="80" height="80" as="geometry" />
+        <mxCell id="Tu-FaEpAWkRkGIklFACU-3" value="&#xa;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Lors des premiers tests, penser à expliquer :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;les points d&#39;espoir (+1D ou +2D si personnage inspiré par ses traits)&lt;/li&gt;&lt;li&gt;les compétences favorites et les tests favorisés&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&#xa;&#xa;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="355" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="Tu-FaEpAWkRkGIklFACU-4" value="&lt;b&gt;EPILOGUE lire p9 en bas à droite&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="6470" y="683.75" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
