@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="26.2.14">
   <diagram name="Page-1" id="XOG9hFp-4_riqcvW6nHb">
-    <mxGraphModel dx="3973" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6582" dy="1793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -270,11 +270,17 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-54" value="Les PJs doivent réussir 3 tests d&#39;inspection. 2 échecs réveillent le chien. Ne pas oublier la mécanique &lt;b&gt;d&#39;INSPIRATION (avec le trait Curieux)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5565" y="1059" width="300" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-55" value="&lt;div&gt;Enfin en possession de la carte, vous ressortez par .... insert lieu....&lt;/div&gt;&lt;div&gt;&lt;i&gt;Faire une description approprié selon qu&#39;ils ressortent par la porte d&#39;entrée (elle est déverrouillable depuis l&#39;intérieur), par la trappe donnant sur l&#39;entrée éloignée,&amp;nbsp; et faire un éventuel test approprié&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="6088" y="627.5" width="230" height="155" as="geometry" />
+        <mxCell id="k6r6zErj2AFBTDEOaumb-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-55" target="k6r6zErj2AFBTDEOaumb-61">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si un PJ envisage de s&#39;approprier un objet autre que la carte, faire un test d&#39;OMBRE - CUPIDITÉ/SAGESSE : récupérer un objet appartenant au grand Bilbo est une chose mais il serait absolument inacceptable de voler un objet précieux de la maison des Mathoms. &lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="k6r6zErj2AFBTDEOaumb-55" value="&lt;div&gt;Enfin en possession de la carte, vous ressortez par .... insert lieu....&lt;/div&gt;&lt;div&gt;&lt;i&gt;Faire une description approprié selon qu&#39;ils ressortent par la porte d&#39;entrée (elle est déverrouillable depuis l&#39;intérieur), par la trappe donnant sur l&#39;entrée éloignée,&amp;nbsp; et faire un éventuel test approprié. Si le chien est réveillé,il paraît risqué de sortir par la porte d&#39;entrée.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6088" y="627.5" width="230" height="172.5" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si un PJ envisage de s&#39;approprier un objet autre que la carte, faire un test d&#39;OMBRE - CUPIDITÉ/SAGESSE : récupérer un objet appartenant au grand Bilbo est une chose mais il serait absolument inacceptable de voler un objet précieux de la maison des Mathoms. &lt;br&gt;&lt;/div&gt;&lt;div&gt;1D bonus (spécial Hobbit qui ne sont absolument pas voleurs)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="5600" y="760" width="240" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-61" value="&lt;b&gt;EPILOGUE lire p9 en bas à droite&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="6473" y="673.75" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
