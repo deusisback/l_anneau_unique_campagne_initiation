@@ -240,8 +240,11 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-41" value="&lt;i&gt;&lt;b&gt;Lire paragraphe p8 en bas à droite&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="5190" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-45" value="&lt;div&gt;&lt;i&gt;Le chien réveillé vous flaire aussitôt et rappliquent vers vous. Il aboie aussitôt qu&#39;il vous voie mais vous êtes amusé de constater que ce n&#39;est qu&#39;un vulgaire roquet, plus énergique que méchant.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Les PJs peuvent tenter un TEST DE COURTOISIE pour calmer le chien. En cas de réussite il est amadoué et se rendort. Sinon il ne cesse d&#39;aboyer ce qui rend les PJs très nerveux =&amp;gt; PERTE d&#39;1 POINT D&#39;ESPOIR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;De plus les PJs doivent s&#39;activer dans leur recherche&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5500" y="625" width="330" height="145" as="geometry" />
+        <mxCell id="k6r6zErj2AFBTDEOaumb-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-45" target="k6r6zErj2AFBTDEOaumb-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-45" value="&lt;div&gt;&lt;i&gt;Le chien réveillé vous flaire aussitôt et rappliquent vers vous. Il aboie aussitôt qu&#39;il vous voie mais vous êtes amusé de constater que ce n&#39;est qu&#39;un vulgaire roquet, plus énergique que méchant.&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Les PJs peuvent tenter un TEST DE COURTOISIE pour calmer le chien. En cas de réussite il est amadoué et se rendort. Sinon il ne cesse d&#39;aboyer ce qui rend les PJs très nerveux =&amp;gt; PERTE d&#39;1 POINT D&#39;ESPOIR&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;De plus les PJs doivent s&#39;activer dans leur recherche et le stress les défavorise et leur fait perdre un dé lors de leurs TESTS d&#39;INSPECTION.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;S&#39;il échouent à 3 tests d&#39;inspection, ils finissent par trouver la carte dans le brouhaha des aboiements et PERTE D&#39;UN NOUVEAU POINT D&#39;ESPOIR.&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5540" y="535" width="350" height="215" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-41" target="k6r6zErj2AFBTDEOaumb-45">
           <mxGeometry relative="1" as="geometry">
@@ -251,6 +254,27 @@
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-47" value="chien réveillé" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-46">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-41" target="k6r6zErj2AFBTDEOaumb-54">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="5250" y="715" as="sourcePoint" />
+            <mxPoint x="5440" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-52" value="chien endormi" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-54" target="k6r6zErj2AFBTDEOaumb-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-54" value="Les PJs doivent réussir 3 tests d&#39;inspection. 2 échecs réveillent le chien. Ne pas oublier la mécanique &lt;b&gt;d&#39;INSPIRATION (avec le trait Curieux)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5565" y="1059" width="300" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-55" value="&lt;div&gt;Enfin en possession de la carte, vous ressortez par .... insert lieu....&lt;/div&gt;&lt;div&gt;&lt;i&gt;Faire une description approprié selon qu&#39;ils ressortent par la porte d&#39;entrée (elle est déverrouillable depuis l&#39;intérieur), par la trappe donnant sur l&#39;entrée éloignée,&amp;nbsp; et faire un éventuel test approprié&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6088" y="627.5" width="230" height="155" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Si un PJ envisage de s&#39;approprier un objet autre que la carte, faire un test d&#39;OMBRE - CUPIDITÉ/SAGESSE : récupérer un objet appartenant au grand Bilbo est une chose mais il serait absolument inacceptable de voler un objet précieux de la maison des Mathoms. &lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="5600" y="760" width="240" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
