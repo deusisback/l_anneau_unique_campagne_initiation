@@ -181,7 +181,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-20" value="&lt;div align=&quot;left&quot;&gt;Alors que vous essayez de disparaître dans&amp;nbsp; les ombres, une frontalière (Ada FOUINE) affutée et un peu zélée vous remarque: &quot;Halte-là messieurs dames, vos visages ne me sont pas familiers. Vous n&#39;êtes pas du Carrefour. Il est de mon devoir de poser des questions aux vagabonds après la tombée de la nuit :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Qu&#39;est ce qui vous amène par ici à cette heure tardive ?&lt;/li&gt;&lt;li&gt;D&#39;où venez-vous?&lt;/li&gt;&lt;li&gt;Où logez-vous ce soir ?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;A moins que les PJs ne s&#39;en sortent particulièrement bien lors de l&#39;interrogatoire,&lt;/div&gt;&lt;div&gt;TEST DE PERSUASION ou ENIGMES (selon qu&#39;ils essaient d&#39;être convaincant ou embobinant)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4440" y="70" width="270" height="295" as="geometry" />
+          <mxGeometry x="4360" y="150" width="270" height="295" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4500" y="615" as="sourcePoint" />
+            <mxPoint x="4760" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-22" value="&lt;b&gt;&lt;i&gt;échec&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-24" value="Après vous avoir cuisiné, la frontalière n&#39;est manifestement pas convaincu. Elle n&#39;a pas de motif de vous importuner plus avant cependant. &quot;Bon et bien, je vous invite à vous en retourner rapidement à l&#39;auberge " style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="4760" y="285" width="230" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-26" value="&lt;div&gt;Si les PJs se renseignent sur Grand-Cave avant de s&#39;y rendre :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;c&#39;est la plus grande ville de la Comté et accueille une population de hobbits aisés&lt;/li&gt;&lt;li&gt;le maire s&#39;appelle Pott Piedblanc et possède une belle demeure&lt;/li&gt;&lt;li&gt;c&#39;est à Grand-Cave qu&#39;est installé et géré le service de &quot;Poste rapide&quot;&lt;/li&gt;&lt;li&gt;la principale Auberge s&#39;appelle &quot;L&#39;auberge de l&#39;oiseau et du nourisson&quot;&lt;/li&gt;&lt;li&gt;la maison des Mathoms est sans doute le joyau de Grand-Cave avec l&#39;hôtel de ville et est particulièrement réputée pour ses importantes collection d&#39;objets historiques et précieux, livres de cuisine, archives généalogiques, cartes, etc.&lt;/li&gt;&lt;li&gt;la foire libre est le principal évènement de l&#39;année, 3 jours autour du solstice d&#39;été : grandes festivités, élection du maire. Gandalf en était un habitué jusqu&#39;il y a encore quelques décennies. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3650" y="750" width="510" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
