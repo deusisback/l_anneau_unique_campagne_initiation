@@ -156,8 +156,32 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1050" y="690" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-10" target="k6r6zErj2AFBTDEOaumb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-10" value="&#xa;&lt;p&gt;&lt;strong&gt;Chez Baldon Bunce&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&quot;Bien le bonsoir, oui je dois bien pouvoir vous trouver un coin pour dormir, les nuits sont douces et la paille est moelleuse. Mais voyez, un satané hibou gros de même refuse de quitter la grange. Ma vieille mule Gertrude est tout effrayée et passe ses nuits à braire. C&#39;est devenu insupportable. Débarassez moi de cette sale bête et je vous offre le coucher et le dîner/l&#39;encas bien volontiers&quot;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;C&#39;est l&#39;occasion de rappeler aux PJs que les animaux sont considérés comme intelligents et qu&#39;il peut être utile de les traiter avec respect ou de tenter de communiquer avec eux.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;TEST de COURTOISIE (option aimable, il faut décrire ce qu&#39;ils disent au hibou), PRESENCE ou CHASSE (option déplaisante).&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;S&#39;ils intimident le hibou : &quot;Le hibou agite ses grandes ailes mais votre présente finit par l&#39;effrayer. Il hulule un dernière fois, et la mule brait, comme en réponse, avant de s&#39;éloigner définitivement.&quot;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Les PJs peuvent s&#39;installer et dormir. Le fermier leur a fourni un petit panier contenant des restes de pain et de bière en guise d&#39;encas.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;em&gt;Si c&#39;est leur première nuit :&lt;/em&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;TEST DE VOYAGE  : 1 point +1 par symbole Tau&lt;/em&gt;&lt;/li&gt;&lt;li&gt;&lt;em&gt;Repos prolongée : 1 point&lt;/em&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3308" y="110" width="332" height="510" as="geometry" />
+          <mxGeometry x="3308" y="140" width="332" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-13" target="k6r6zErj2AFBTDEOaumb-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-13" value="&lt;br&gt;&lt;p&gt;&lt;strong&gt;Grand-Cave&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Vous repartez le lendemain pour une longue marche sur la route principale en direction de l&#39;ouest qui se déroule sans encombre, entrecoupée des indispensables pause pour se rassasier. Vous arrivez en fin de journée à Grand-Cave.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;PUIS TEXTE p7 en bas à droite.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Des frontaliers s&#39;approchent. A la faveur de la nuit, il vous paraît pertinent de vous cacher prestement !&lt;/i&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3770" y="265" width="250" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-16" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p align=&quot;center&quot;&gt;&lt;i&gt;TEST DE DISCRETION&amp;nbsp; pour chaque personnage&lt;/i&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="4090" y="365" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-16" target="k6r6zErj2AFBTDEOaumb-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3750" y="500" as="sourcePoint" />
+            <mxPoint x="4450" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-19" value="&lt;b&gt;&lt;i&gt;échec&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-20" value="&lt;div align=&quot;left&quot;&gt;Alors que vous essayez de disparaître dans&amp;nbsp; les ombres, une frontalière (Ada FOUINE) affutée et un peu zélée vous remarque: &quot;Halte-là messieurs dames, vos visages ne me sont pas familiers. Vous n&#39;êtes pas du Carrefour. Il est de mon devoir de poser des questions aux vagabonds après la tombée de la nuit :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Qu&#39;est ce qui vous amène par ici à cette heure tardive ?&lt;/li&gt;&lt;li&gt;D&#39;où venez-vous?&lt;/li&gt;&lt;li&gt;Où logez-vous ce soir ?&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;A moins que les PJs ne s&#39;en sortent particulièrement bien lors de l&#39;interrogatoire,&lt;/div&gt;&lt;div&gt;TEST DE PERSUASION ou ENIGMES (selon qu&#39;ils essaient d&#39;être convaincant ou embobinant)&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="4440" y="70" width="270" height="295" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
