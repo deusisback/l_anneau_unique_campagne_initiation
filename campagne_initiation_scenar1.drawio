@@ -192,8 +192,11 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-22" value="&lt;b&gt;&lt;i&gt;échec&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-24" target="k6r6zErj2AFBTDEOaumb-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-24" value="&lt;div&gt;&lt;i&gt;Après vous avoir cuisiné, la frontalière n&#39;est manifestement pas convaincu. Elle n&#39;a pas de motif de vous importuner plus avant cependant. &quot;Bon et bien, je vous invite à vous en retourner rapidement à .....insert lieu.... Il n&#39;est plus l&#39;heure d&#39;errer dans la ville. Bonsoir&quot;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Vous la voyiez ensuite se diriger vivement vers la maison des Mathoms et, fait rare dans la Comté (les vols y sont rarissimes), vous l&#39;entendez tourner une clé dans une serrure, pour en verrouiller la porte. &lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="152.5" width="240" height="240" as="geometry" />
+          <mxGeometry x="4830" y="147.5" width="240" height="240" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-26" value="&lt;div&gt;Si les PJs se renseignent sur Grand-Cave avant de s&#39;y rendre :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;c&#39;est la plus grande ville de la Comté et accueille une population de hobbits aisés&lt;/li&gt;&lt;li&gt;le maire s&#39;appelle Pott Piedblanc et possède une belle demeure&lt;/li&gt;&lt;li&gt;c&#39;est à Grand-Cave qu&#39;est installé et géré le service de &quot;Poste rapide&quot;&lt;/li&gt;&lt;li&gt;la principale Auberge s&#39;appelle &quot;L&#39;auberge de l&#39;oiseau et du nourisson&quot; et se situe sur une colline au nord de Grand-Cave&lt;/li&gt;&lt;li&gt;la maison des Mathoms est sans doute le joyau de Grand-Cave avec l&#39;hôtel de ville et est particulièrement réputée pour ses importantes collection d&#39;objets historiques et précieux, livres de cuisine, archives généalogiques, cartes, etc. Tout deux sont situés sur une colline au sud de Grand-Cave&lt;/li&gt;&lt;li&gt;la foire libre est le principal évènement de l&#39;année, 3 jours autour du solstice d&#39;été : grandes festivités, élection du maire. Gandalf en était un habitué jusqu&#39;il y a encore quelques décennies. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacingTop=5;" vertex="1" parent="1">
           <mxGeometry x="3700" y="560" width="520" height="220" as="geometry" />
@@ -207,8 +210,11 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-30" value="&lt;b&gt;&lt;i&gt;succès&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-34" target="k6r6zErj2AFBTDEOaumb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-34" value="&lt;i&gt;Vous vous dissimulez habilement dans des haies bordant la route principalement. En un instant, vous disparaissez tous les 3. La frontalière passe non loin mais semble bien n&#39;avoir rien remarqué.&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4449" y="565" width="200" height="130" as="geometry" />
+          <mxGeometry x="4449" y="620" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-20" target="k6r6zErj2AFBTDEOaumb-37">
           <mxGeometry relative="1" as="geometry">
@@ -219,8 +225,20 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-36" value="&lt;b&gt;&lt;i&gt;succès&lt;/i&gt;&lt;/b&gt;" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="k6r6zErj2AFBTDEOaumb-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-37" target="k6r6zErj2AFBTDEOaumb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-37" value="Convaincu de vos bonnes intentions, la frontalière vous laisse tranquille en vous souhaitant une bonne soirée. Vous faites mine de continuer votre chemin en direction de l&#39;auberge pendant qu&#39;elle poursuit sa route. " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="415" width="300" height="95" as="geometry" />
+          <mxGeometry x="4800" y="470" width="300" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="k6r6zErj2AFBTDEOaumb-38" target="k6r6zErj2AFBTDEOaumb-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-38" value="&lt;div align=&quot;left&quot;&gt;Les PJs peuvent :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;inspecter les alentours de la maison des Mathoms pour remarquer qu&#39;il y a une petite ouverture par le toit. Une escalade semble envisageable : TEST D&#39;ATHLETISME pour chaque personnage. Si la moitié des héros échouent, ils emportent les autres dans leur chute et alertent le chien de garde.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;La fenêtre est déverrouillée mais atterrir en douceur n&#39;est pas évident. Un second TEST D&#39;ATHLETISME est nécessaire sous peine de réveiller le chien de garde. &lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;l&#39;inspection prolongée permet aussi de remarquer une vieille porte, à flanc de colline qui doit certainement mener au sous-sol de la maison des Mathoms. S&#39;ils s&#39;engagent par là :&lt;/li&gt;&lt;ul&gt;&lt;li&gt;vous avancez dans un bref couloir avant de déboucher sur une salle souterraine étroite encombrée d&#39;un fatras de babioles oubliées et toiles d&#39;araignées. TEST DE DISCRETION sinon des dizaines de rats s&#39;enfuient en couinant et réveille le chien.&lt;/li&gt;&lt;li&gt;Une trappe située dans le plafond est la seule ouverture. Une fois franchit les PJs pénètre dans la maison des Mathoms.&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;align=left;" vertex="1" parent="1">
+          <mxGeometry x="5300" y="77.5" width="380" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="k6r6zErj2AFBTDEOaumb-41" value="&lt;i&gt;&lt;b&gt;Lire paragraphe p8 en bas à droite&lt;/b&gt;&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5280" y="655" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
