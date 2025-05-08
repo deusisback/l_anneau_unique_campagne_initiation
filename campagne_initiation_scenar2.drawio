@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.1">
   <diagram name="Page-1" id="7Yh43Y2Ot-qijMfYuII9">
-    <mxGraphModel dx="3484" dy="1852" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3676" dy="1924" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -71,7 +71,7 @@
         <mxCell id="l_KMotrVdlq0wGStUdk4-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="l_KMotrVdlq0wGStUdk4-20" target="l_KMotrVdlq0wGStUdk4-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="l_KMotrVdlq0wGStUdk4-20" value="on part sur 3 jours de voyage si tout se passe bien avec 2 jets du Destin. On peut écourter le 3ème jour et considérer qu&#39;il se déroule bien" style="whiteSpace=wrap;html=1;rounded=1;spacingTop=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
+        <mxCell id="l_KMotrVdlq0wGStUdk4-20" value="on part sur 3 jours de voyage si tout se passe bien avec 1 jet du Destin. La rencontre intervient au 2ème hexagone. " style="whiteSpace=wrap;html=1;rounded=1;spacingTop=5;spacingLeft=5;spacingRight=5;" parent="1" vertex="1">
           <mxGeometry x="-250" y="261.25" width="145" height="127.5" as="geometry" />
         </mxCell>
         <mxCell id="l_KMotrVdlq0wGStUdk4-24" value="si pas fait au 1er scénar, c&#39;est cohérent géographiquement, sinon on fait le coup des chansons." style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=default;align=center;verticalAlign=middle;spacingLeft=5;spacingRight=5;spacingTop=5;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
@@ -114,6 +114,9 @@
         </mxCell>
         <mxCell id="l_KMotrVdlq0wGStUdk4-41" value="&lt;p align=&quot;left&quot;&gt;&lt;strong&gt;Sauron : &lt;/strong&gt;Alors que vous passez non loin d&#39;un petit bourg, un attroupement s&#39;est amassé au milieu de la route. Un lourd chariot semble s&#39;être renversé en travers,&amp;nbsp; des badauds regardent la scène, d&#39;autre aident à ramasser les affaires éparpillées. Alors que vous contournez péniblement la foule, des cris venant de derrière attirent votre attention. Lorsque vous vous retournez un nain semble se diriger vers vous d&#39;un pas pressé &quot;Au voleur, arrêtez-vous !&quot;.&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;i&gt;Le nain les accuse d&#39;avoir volé du matériel qui s&#39;était renversé de son chariot et pointe au choix en fonction de qu&#39;ont les PJ :&lt;/i&gt;&lt;/p&gt;&lt;ul&gt;&lt;li align=&quot;left&quot;&gt;&lt;i&gt;&amp;nbsp;le sifflet argenté gravé de runes naines&lt;/i&gt;&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;&lt;i&gt;les armes offertes par le nain dans le 1er scénar&lt;/i&gt;&lt;/li&gt;&lt;li align=&quot;left&quot;&gt;&lt;i&gt;l&#39;arc court récupéré dans le coffre de Bilbo (ou n&#39;importe quelle autre arme qui serait de facture naine)&lt;/i&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p align=&quot;left&quot;&gt;&lt;i&gt;Tentative d&#39;explication puis TEST DE PERSUASION (prouver leur bonne foi) ou bien TEST d&#39;INSPECTION (repérer le vrai voleur entrain de filer).&lt;br&gt; Entre temps 1 camarade nain se joint à l&#39;échange&lt;/i&gt;. &lt;i&gt;Si échec, le nain ne décolère pas et il va falloir se battre (armes improvisées uniquement dans un premier temps, il serait risqué de sortir une épée ou une hache)&lt;/i&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&amp;nbsp;&lt;strong&gt;4 points de fatigue&lt;/strong&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="1030" y="30" width="620" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l_KMotrVdlq0wGStUdk4-42" target="EoFZOrs3_2J9JwAd8zcL-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="l_KMotrVdlq0wGStUdk4-42" value="&lt;div&gt;&lt;b&gt;Si le TEST A BIEN RÉUSSI ou que les PJs s&#39;investissent bien dans la scène&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&quot;Ce fut un plaisir de chanter avec vous. Voilà des rencontres plaisantes que l&#39;on aimerait à faire plus souvent. Tenez, en souvenir&quot;.&lt;/div&gt;&lt;div&gt;Le nain vous tend un très beau sifflet d&#39;argent, gravé de runes étranges. &lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Bilbo vous indique que ce sont des runes naines mais il ne saurait les traduire.&lt;/i&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;spacingLeft=5;spacingRight=5;spacingTop=5;" parent="1" vertex="1">
           <mxGeometry x="1080" y="815" width="260" height="150" as="geometry" />
@@ -166,7 +169,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EoFZOrs3_2J9JwAd8zcL-4" value="Les PJs peuvent maintenant tenter de rejoindre Digne-du-Roi. Une bonne journée de marche dans ces lieux reculés implique un dé du destin résolu avec la table suivante (basée sur la table p31 de La Comté)" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="3580" y="402.81" width="205" height="111.46" as="geometry" />
+          <mxGeometry x="3360" y="780" width="205" height="111.46" as="geometry" />
         </mxCell>
         <mxCell id="EoFZOrs3_2J9JwAd8zcL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EoFZOrs3_2J9JwAd8zcL-7" target="EoFZOrs3_2J9JwAd8zcL-9">
           <mxGeometry relative="1" as="geometry" />
@@ -174,8 +177,29 @@
         <mxCell id="EoFZOrs3_2J9JwAd8zcL-7" value="&lt;div&gt;&quot;Vous apercevez enfin Digne-du-Roi, une grande maison de pierres dotée d&#39;une tour ronde.&quot;&lt;/div&gt;&lt;div&gt;TEST DE CONNAISSANCE : &quot;Vous concluez qu&#39;il s&#39;agit certainement d&#39;un ancien pavillon de chasse datant de l&#39;époque où les rois des hommes séjournaient à Norchâteau-le-Roy&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="5490" y="394.69" width="260" height="130.62" as="geometry" />
         </mxCell>
-        <mxCell id="EoFZOrs3_2J9JwAd8zcL-9" value="&lt;div align=&quot;center&quot;&gt;&quot;En vous approchant, vous remarquez des traces qui laissent à penser que ce lieu sert parfois d&#39;abri aux voyageurs et aux éventuels rôdeurs&quot;&lt;br&gt;TEST D&#39;INSPECTION : &quot;Vous remarquez des empreintes fraîches appartenant manifestement à des Hobbits&quot;.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5890" y="395.31" width="230" height="130" as="geometry" />
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EoFZOrs3_2J9JwAd8zcL-9" target="EoFZOrs3_2J9JwAd8zcL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EoFZOrs3_2J9JwAd8zcL-9" target="EoFZOrs3_2J9JwAd8zcL-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-9" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&quot;En vous approchant, vous remarquez des traces qui laissent à penser que ce lieu sert parfois d&#39;abri aux voyageurs et aux éventuels rôdeurs&quot;&lt;br&gt;TEST D&#39;INSPECTION : &quot;Vous remarquez des empreintes fraîches appartenant manifestement à des Hobbits&quot;.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5890" y="380" width="240" height="145.31" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-13" value="Les PJs devront se renseigner auprès d&#39;un expert pour en savoir plus. On peut tout simplement considérer que c&#39;est un &lt;b&gt;sifflet&amp;nbsp; GRAVÉ DE RUNE de fabrication naine : une fois par aventure, l&#39;utilisation d&#39;une chanson permet également d&#39;ignorer l&#39;état Mélancolique&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;spacingLeft=5;spacingRight=5;spacingTop=5;" vertex="1" parent="1">
+          <mxGeometry x="1047.5" y="1070" width="325" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="EoFZOrs3_2J9JwAd8zcL-15" target="EoFZOrs3_2J9JwAd8zcL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-15" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;Après avoir passé la &quot;porte, vous pénétrez dans une &lt;br&gt;sorte d&#39;antichambre donnant sur un grand salon. Une grande table de bois&lt;br&gt; massif trône au milieu, à proximité d&#39;une grande cheminée.&quot;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&quot;L&#39;âtre&lt;br&gt; contient des cendres et un reste de bûche partiellement consumée. Le &lt;br&gt;manteau de la cheminée est joliment ouvragé et une large plaque de bois &lt;br&gt;rectangulaire y est suspendu en son mlilieu.&quot;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;TEST&lt;br&gt; D&#39;ARTISANAT : le vieillissement et la couleur de bois permettent de &lt;br&gt;conclure qu&#39;un objet de grande taille (environ 1m) était monté sur la &lt;br&gt;plaque de bois mais a été retiré. Une chaise se trouve à côté de la &lt;br&gt;cheminée, comme si quelqu&#39;un s&#39;en était servi pour atteindre la plaque &lt;br&gt;au-dessus de l&#39;âtre. &lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5827.5" y="650" width="412.5" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-20" value="Ne pas donner le nom du jeu, c&#39;est un peu bizarre qu&#39;un autre jeu avec un autre nom soit finalement le fin mot de l&#39;affaire : dire plutôt &quot;les enfants jouent à un jeu où ils aiment prétendre utiliser le gourdin du Taureau Mugissant&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3390" y="370.00000000000006" width="510" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-21" value="&#xa;&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&quot;Vous tentez de suivre les trace. Une fois la piste repérée, elle s&#39;avère plutôt facile à suivre. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;TEST&#xa; DE CHASSE x3 : les PJs parviennent à rattraper un Hobbit plutôt mince &#xa;au cheveux bruns. Ils apprennent en l&#39;interpellant que c&#39;est un certain &#xa;Mortimer Piedboueux. Il cherche désespérément sa fille Myrte qui a &#xa;disparu depuis plusieurs jours. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Il ne sait &#xa;rien au sujet du Taureau Mugissant sinon que sa fille adore jouer à &#xa;&quot;Encoche-les-Gobelins&quot; avec les autres enfants, une sorte de jeu de &#xa;quilles utilisant un maillet ou un gourdin. &lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Mortimer peut ajouter selon les questions :&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;que sa fille a toujours été aventureuse&lt;/li&gt;&lt;li&gt;qu&#39;elle adore les histoires à propos du Taureau Mugissant et la bataille des Champs-Verts&lt;/li&gt;&lt;li&gt;qu&#39;elle rêve de partir à l&#39;aventure au Nord, ce qui est bien inappropriée pour une Hobbit bien élevé d&#39;après lui.&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&#xa;&#xa;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="6230" y="274.38" width="320" height="370" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
