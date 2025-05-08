@@ -168,8 +168,14 @@
         <mxCell id="EoFZOrs3_2J9JwAd8zcL-4" value="Les PJs peuvent maintenant tenter de rejoindre Digne-du-Roi. Une bonne journée de marche dans ces lieux reculés implique un dé du destin résolu avec la table suivante (basée sur la table p31 de La Comté)" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="3580" y="402.81" width="205" height="111.46" as="geometry" />
         </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EoFZOrs3_2J9JwAd8zcL-7" target="EoFZOrs3_2J9JwAd8zcL-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="EoFZOrs3_2J9JwAd8zcL-7" value="&lt;div&gt;&quot;Vous apercevez enfin Digne-du-Roi, une grande maison de pierres dotée d&#39;une tour ronde.&quot;&lt;/div&gt;&lt;div&gt;TEST DE CONNAISSANCE : &quot;Vous concluez qu&#39;il s&#39;agit certainement d&#39;un ancien pavillon de chasse datant de l&#39;époque où les rois des hommes séjournaient à Norchâteau-le-Roy&quot;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="5490" y="394.69" width="260" height="130.62" as="geometry" />
+        </mxCell>
+        <mxCell id="EoFZOrs3_2J9JwAd8zcL-9" value="&lt;div align=&quot;center&quot;&gt;&quot;En vous approchant, vous remarquez des traces qui laissent à penser que ce lieu sert parfois d&#39;abri aux voyageurs et aux éventuels rôdeurs&quot;&lt;br&gt;TEST D&#39;INSPECTION : &quot;Vous remarquez des empreintes fraîches appartenant manifestement à des Hobbits&quot;.&lt;/div&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;rounded=1;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
+          <mxGeometry x="5890" y="395.31" width="230" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
