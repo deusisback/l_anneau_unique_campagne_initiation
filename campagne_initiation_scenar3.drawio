@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
   <diagram name="Page-1" id="kog_332_Mgi0voH5slS2">
-    <mxGraphModel dx="3191" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3914" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-1" value="&lt;b&gt;Scénario 3 : De très excellents feux d&#39;artifices&lt;/b&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="-1430" y="285" width="150" height="80" as="geometry" />
+          <mxGeometry x="-1490" y="525" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaRNp7EPBD9BqWIu7ZME-2" target="BaRNp7EPBD9BqWIu7ZME-6">
           <mxGeometry relative="1" as="geometry" />
@@ -52,9 +52,6 @@
         </mxCell>
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-16" value="&lt;div&gt;Vous frappez à la porte qui s&#39;ouvre quelques instants après d&#39;un coup sec. Le visage plutôt aigre&amp;nbsp;de Primerose Sanglebuc vous accueille : &quot;Que voulez-vous mon cher Bilbo ?Débarquez sans prévenir, voilà bien des manières, nous avons beau être apparenté (après tout la grande-tante de Primerose, Berylla Bophin est votre arrière-grand-mère par alliance), ce n&#39;est pas une raison pour faire fi de la politesse. Encore que j&#39;imagine que c&#39;est attendu de la part d&#39;un Sacquet&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="505.01000000000005" width="320" height="150.04" as="geometry" />
-        </mxCell>
-        <mxCell id="BaRNp7EPBD9BqWIu7ZME-17" value="&lt;i&gt;Si Lobelia est présente, sa mère est tout aussi agaçé et fait une remarque sur ses mauvaises fréquentations&lt;/i&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="640" width="200" height="130" as="geometry" />
         </mxCell>
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BaRNp7EPBD9BqWIu7ZME-21" target="BaRNp7EPBD9BqWIu7ZME-24">
           <mxGeometry relative="1" as="geometry" />
@@ -109,8 +106,8 @@
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BaRNp7EPBD9BqWIu7ZME-43" target="BaRNp7EPBD9BqWIu7ZME-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BaRNp7EPBD9BqWIu7ZME-43" value="&lt;div&gt;Roccreux est très au Nord et Othon a plusieurs heures d&#39;avance sur eux. Il est parti en début d&#39;après-midi. S&#39;ils veulent le rattraper, il faut partir immédiatement. La route est bonne jusqu&#39;à Scary mais il y a au moins 6 lieues (30km).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Les PJs peuvent éventuellement chercher des montures mais il est tard, il va falloir se faire insistant.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cela peut paraître excessif pour de simples feux d&#39;artifices mais si les PJs hésitent Bilbo se fait insistant. Ce ne sont pas de simples feux d&#39;artifices mais des objets enchantés précieux et Bilbo, si proche de Gandalf tient absolument à les récupérer au plus vite.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Au moment du départ il se met à pleuvoir à grosses gouttes.&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="4230" y="505.1" width="247.66" height="294.9" as="geometry" />
+        <mxCell id="BaRNp7EPBD9BqWIu7ZME-43" value="&lt;div&gt;Roccreux est très au Nord et Othon a plusieurs heures d&#39;avance sur eux. Il est parti en début d&#39;après-midi. S&#39;ils veulent le rattraper, il faut partir immédiatement. La route est bonne jusqu&#39;à Scary mais il y a au moins 6 lieues (30km).&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Les PJs peuvent éventuellement chercher des montures mais il est tard, il va falloir se faire insistant.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Cela peut paraître excessif pour de simples feux d&#39;artifices mais si les PJs hésitent Bilbo se fait insistant. Ce ne sont pas de simples feux d&#39;artifices mais des objets enchantés précieux et Bilbo, si proche de Gandalf tient absolument à les récupérer au plus vite. Il craint qu&#39;une fois à Roccreux, la négociation soit plus ardue. Le porteur actuel est un simple employé missioné par un Bruno Sanglebuc trop feignant pour faire le travail lui-même. Il ne devrait pas être trop difficile de les récupérer.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Au moment du départ il se met à pleuvoir à grosses gouttes.&lt;/div&gt;" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="4230" y="406" width="247.66" height="357.41" as="geometry" />
         </mxCell>
         <mxCell id="BaRNp7EPBD9BqWIu7ZME-45" value="TEST DE VOYAGE (+1D s&#39;ils ont des montures)&lt;br&gt;+3 points de fatigue si échec" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="4621.49" y="550.07" width="158.51" height="99.93" as="geometry" />
