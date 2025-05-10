@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0" version="27.0.2">
   <diagram name="Page-1" id="XOG9hFp-4_riqcvW6nHb">
-    <mxGraphModel dx="3914" dy="2013" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4856" dy="2364" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -139,8 +139,8 @@
         <mxCell id="k6r6zErj2AFBTDEOaumb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k6r6zErj2AFBTDEOaumb-13" target="k6r6zErj2AFBTDEOaumb-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="k6r6zErj2AFBTDEOaumb-13" value="&lt;br&gt;&lt;p&gt;&lt;strong&gt;Grand-Cave&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Vous repartez le lendemain pour une longue marche sur la route principale en direction de l&#39;ouest qui se déroule sans encombre, entrecoupée des indispensables pause pour se rassasier. Vous arrivez en fin de journée à Grand-Cave.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;PUIS TEXTE p7 en bas à droite.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Des frontaliers s&#39;approchent. A la faveur de la nuit, il vous paraît pertinent de vous cacher prestement !&lt;/i&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="3770" y="265" width="250" height="260" as="geometry" />
+        <mxCell id="k6r6zErj2AFBTDEOaumb-13" value="&lt;br&gt;&lt;p&gt;&lt;strong&gt;Grand-Cave&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Vous repartez le lendemain pour une longue marche sur la route principale en direction de l&#39;ouest.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Si aucun évènement intéressant n&#39;a eu lieu lors du 1er voyage, on pourra éventuellement relancer un dé du destin pour un 2ème évènement.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Sinon le trajet se déroule sans encombre, entrecoupée des indispensables pause pour se rassasier. Vous arrivez en fin de journée à Grand-Cave.&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;&lt;b&gt;PUIS TEXTE p7 en bas à droite.&lt;/b&gt;&lt;/i&gt;&lt;/p&gt;&lt;p&gt;&lt;i&gt;Des frontaliers s&#39;approchent. A la faveur de la nuit, il vous paraît pertinent de vous cacher prestement !&lt;/i&gt;&lt;/p&gt;&lt;p align=&quot;left&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="3770" y="190" width="250" height="335" as="geometry" />
         </mxCell>
         <mxCell id="k6r6zErj2AFBTDEOaumb-16" value="&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;p align=&quot;center&quot;&gt;&lt;i&gt;TEST DE DISCRETION&amp;nbsp; pour chaque personnage&lt;/i&gt;&lt;/p&gt;&lt;div align=&quot;center&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="4090" y="365" width="180" height="60" as="geometry" />
